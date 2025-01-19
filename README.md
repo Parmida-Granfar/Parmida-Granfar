@@ -1,6 +1,5 @@
 # 🌟 **Parmida Geranfar** 🌟  
 
-![Banner](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)  
 
 👋 **Hey there!** I'm Parmida, a passionate developer, researcher, and tech enthusiast with a love for all things **NLP**, **Generative AI**, and **Agentic AI**. I’m constantly exploring how AI can shape **EdTech**, transform industries, and tackle real-world challenges like **climate change** and **healthcare solutions**.  
 
@@ -51,6 +50,5 @@
 
 ---
 
-![AI in Action](https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif)  
 
 🌟 **“Code, Create, Inspire!”**
