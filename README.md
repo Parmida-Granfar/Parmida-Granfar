@@ -1,5 +1,5 @@
-# 🌟 **Parmida Geranfar** 🌟  
-![Banner](https://your-gif-link.com/animation.gif)
+# Parmida Geranfar
+![Description](https://github.com/Parmida-Granfar/Parmida-Granfar/blob/main/Animation%20-%201737346665082.gif)
 
 👋 **Hey there!** I'm Parmida, a passionate developer, researcher, and tech enthusiast with a love for all things **NLP**, **Generative AI**, and **Agentic AI**. I’m constantly exploring how AI can shape **EdTech**, transform industries, and tackle real-world challenges like **climate change** and **healthcare solutions**.  
 
